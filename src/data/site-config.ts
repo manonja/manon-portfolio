@@ -63,9 +63,9 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Writing',
-            href: 'https://mirth-and-mastery.beehiiv.com/'
+            href: 'https://the-dance.beehiiv.com/'
         },
-        // {
+        //
         //     text: 'Writing',
         //     href: '/blog'
         // },
@@ -81,7 +81,7 @@ const siteConfig: SiteConfig = {
     footerNavLinks: [
         {
             text: 'Subscribe',
-            href: 'https://mirth-and-mastery.beehiiv.com/'
+            href: 'https://the-dance.beehiiv.com/'
         },
     ],
     socialLinks: [
