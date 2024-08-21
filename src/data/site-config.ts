@@ -96,16 +96,16 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi, I am Manon️!',
-        text: "Former legal attaché at the UN turned software developer, I offer coaching to help you navigate <u>career & life's changes</u> and <u>manage conflict.</u>",
+        text: "Former legal attaché at the UN turned software developer, I help people make <u> career & life change(s)</u> happen.",
         text3: "And the feeling of being lost! Through my own journey from law to tech, and from adapting to different cultures and countries, I’ve seen firsthand the power of reinvention and the importance of support along the way.",
         text4: "My approach is human-centered, I focus on building strong, supportive relationships that empower you to explore your potential, make bold transitions, and thrive in your chosen paths.",
         image: {
-            src: '/hero.png',
+            src: '/hero.jpg',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
             {
-                text: "Let's chat!",
+                text: "Let's chat",
                 href: 'https://calendly.com/manon-jacquin/15min'
             }
         ]
