@@ -100,7 +100,7 @@ const siteConfig: SiteConfig = {
         text3: "And the feeling of being lost! Through my own journey from law to tech, and from adapting to different cultures and countries, I’ve seen firsthand the power of reinvention and the importance of support along the way.",
         text4: "My approach is human-centered, I focus on building strong, supportive relationships that empower you to explore your potential, make bold transitions, and thrive in your chosen paths.",
         image: {
-            src: '/hero.jpg',
+            src: '/hero.png',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [

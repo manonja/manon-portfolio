@@ -4,7 +4,7 @@ seo:
   title: About me
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
-    src: '/hero.jpg'
+    src: '/hero.png'
     alt: Manon Photo
 ---
 I've spent the last decade following my curiosities, from law to criminal justice to software through entrepreneurship and mentoring. I learned a ton in the process - about leadership, diplomacy, building software and product, transitioning careers, how to learn and how to create great teams. 
